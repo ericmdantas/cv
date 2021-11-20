@@ -191,7 +191,7 @@
 	content: '';
 	position: absolute;
 	left: 0;
-	bottom: -6px;
+	bottom: -8px;
 	height: 3px;
 	width: 35px;
 	background-color: #f44f2e;
